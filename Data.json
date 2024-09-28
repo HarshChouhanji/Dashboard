@@ -1,0 +1,28 @@
+{
+    "subjects": {
+        "cse1": ["Math I", "Physics I", "Chemistry", "Programming Fundamentals"],
+        "cse2": ["Math II", "Data Structures", "Digital Logic"],
+        "ece1": ["Circuit Theory", "Signals and Systems", "Math I"],
+        "cse4": ["Algorithms", "Database Management Systems"],
+        "cse5": ["Operating Systems", "Software Engineering"],
+        "cse6": ["Computer Networks", "Web Technologies"],
+        "cse7": ["Machine Learning", "Compiler Design"],
+        "cse8": ["Cloud Computing", "Cyber Security"]
+    },
+    "videos": {
+        "Math I": ["video1.mp4", "video2.mp4"],
+        "Physics I": ["video3.mp4", "video4.mp4"],
+        "Chemistry": ["video5.mp4", "video6.mp4"]
+    }
+}
+{
+    "subjects": {
+        "cse1": ["Math I", "Physics I", "Chemistry", "Programming Fundamentals"],
+        "cse2": ["Math II", "Data Structures", "Digital Logic"],
+        ...
+    },
+    "videos": {
+        "Math I": ["https://video.example.com/video1.mp4", "https://video.example.com/video2.mp4"],
+        ...
+    }
+}
